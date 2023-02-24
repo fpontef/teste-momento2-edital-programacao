@@ -1,4 +1,4 @@
-/* Desafio 3 - Área de Atuação IV - Programação
+/* Desafio 3 - Área de Atuação II
  *
  * Escreva um programa que lê 2 matrizes A e B, cada uma com 3 linhas
  * e 2 colunas. Construir uma matriz C de mesma dimensão (3x2) onde C

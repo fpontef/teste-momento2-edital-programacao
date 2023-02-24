@@ -1,4 +1,4 @@
-/* Desafio 1 - Área de Atuação IV - Programação
+/* Desafio 1 - Área de Atuação II
  *
  * Faça um programa que preencha um vetor com 6 valores distintos
  * digitados pelo usuário. Em seguida, exiba o maior e o menor valor do
